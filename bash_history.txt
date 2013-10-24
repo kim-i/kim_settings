@@ -1,0 +1,316 @@
+ssh-keygen
+ls -a
+cd .ssh
+ls
+ls -la
+ll
+pwd
+cd ..
+pwd
+vi .bash_profile
+exit
+ll
+ll
+ls
+vi .bash_profile 
+pwd
+ll
+cd Downloads/
+ls -a
+ll
+ls -a
+exit
+ll
+ll
+ll
+ll
+ll
+ls -a
+cd .ssh
+ll
+la -a
+ls -a
+ll
+type
+type a
+type --help
+vi id_rsa.pub 
+curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE10_Win7/IE10.Win7.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar}"
+curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE8_XP/IE8.XP.For.MacVirtualBox.ova"
+ll
+pwd
+defaults write com.apple.finder AppleShowAllFiles TRUE
+killall Finder
+defaults write com.apple.finder AppleShowAllFiles TRUE
+defaults write com.apple.finder AppleShowAllFiles FALSE
+killall Finder
+cd .ssh
+pwd
+ls
+./id_rsa.pub
+pwd
+cd ..
+ls
+cd VirtualBox
+cd VirtualBox\ VMs/
+ls
+curl -O "https://az412801.vo.msecnd.net/vhd/IEKitV1_Final/VirtualBox/OSX/IE10_Win7/IE10.Win7.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar}"
+chmod +x IE10.Win7.For.MacVirtualBox.part1.sfx 
+ll
+./IE10.Win7.For.MacVirtualBox.part1.sfx
+cls
+clear
+ls
+ll
+cd ..
+ll
+pwd
+ls -a
+vi .bash_profile 
+vi .bashrc
+vi .bashrc
+ll
+ll
+ll
+pwd
+mkdir Work
+mkdir Work/lods-replace
+cd Work/
+lll
+ll
+got
+git
+git
+~
+cd =
+cd ~
+ll
+./setup\ git\ PATH\ for\ non-terminal\ programs.sh
+./setup programs.sh
+./programs.sh 
+git
+echo $PATH
+ll
+sudo port install git-core
+exit
+ll
+cd .ssh
+ll
+cp
+copy
+cp id_rsa* ../
+ll
+cd ..
+ll
+git
+ll
+cd Work/
+git clone git\github.com:KLabProject/lods-replace.git
+git clone git@github.com:KLabProject/lods-replace.git
+git clone git@github.com:KLabProject/lods-replace.git
+ll
+cd lods-replace/
+ll
+git submodule init
+git submodule update
+ssh kim@dev.ja.lods.klabgames.net
+ssh kim-i@dev.ja.lods.klabgames.net
+ssh kim-i@dev.ja.lods.klabgames.net
+ssh kim-i@dev.ja.lods.klabgames.net
+ssh kim-i@dev.ja.lods.klabgames.net
+ls
+ll
+cd .
+cd ..
+ll
+git clone git@github.com:KLabProject/lods-replace-cms.git
+cd lods-replace-cms/
+git submodule init
+git submodule update
+ll
+cd ..
+ll
+ssh kim-i@dev.ja.lods.klabgames.net
+ll
+git clone git@github.com:KLabProject/lods-client-iphone-jp.git
+ll
+cd lods-replace
+ll
+cd app/tmp/logs/
+ll
+ssh kim-i@dev.ja.lods.klabgames.net
+history
+hitory
+history
+ssh kim-i@dev.ja.lods.klabgames.net
+exit
+ll
+cl
+ll
+ll
+ll
+ll
+git
+git branch
+git branch -r
+ssh kim-i@dev.ja.lods.klabgames.net
+history
+ll
+cd Work/
+ll
+git branch -r
+cd lods-replace-cms/
+git branch
+git branch -r
+git branch
+git diff
+cd ../lods-replace
+git diff
+git diff
+cd ../lods-replace-cms/
+git diff
+ls
+ll
+cd ~/Work/
+ll
+mkdir test_repo
+cd test_repo/
+git init
+ll
+history
+git init
+ll
+git commit -m "first commit"
+git remove and origin https://github.com/kim-i/test_repo.git
+git remote and origin https://github.com/kim-i/test_repo.git
+git remote add origin https://github.com/kim-i/test_repo.git
+git push -u origin master
+git push -u origin master
+ll
+ls -a
+vi test_text.php
+git remote add origin https://github.com/kim-i/test_repo.git
+git push -u origin master
+git diff
+ll
+git remote add origin git@github.com:kim-i/test_repo.git
+git push -u origin master
+clear
+git remote add origin https://github.com/kim-i/test_repo.git
+git push -u origin master
+git commit -m "first commit"
+echo "readme" > README
+ll
+git add README 
+git commit -m "first commit"
+git remote add origin https://github.com/kim-i/test_repo.git
+git push -u origin master
+git
+git diff
+ll
+git branch test_brach_1
+git branch
+git checkout test_branch_1
+git branch
+git branch -m test_brach_1 test_branch_1
+git branch
+git checkout test_branch_1
+git branch
+diff
+git diff
+git add .
+git diff
+ll
+git commit -m "branch commit"
+git diff
+git push origin
+git branch
+git push -u origin test_branch_1
+git branch -r
+git log
+git log 19249dd8a242b1f043ab6eb0b7b4f09fddd3f375
+git show 19249dd8a242b1f043ab6eb0b7b4f09fddd3f375
+git status
+echo "tettttt" > README2
+git diff
+echo "aaaaaaaaaaaaajjfeiowef" > README
+git diff
+git status
+git add .
+git commit
+git commit -m "test3"
+git log
+git log
+git show 2793494201a38eb441b6ed17eadac47b0d087768
+git push origin test_branch_1
+git
+git status
+ls
+git branch
+git branch master
+git branch
+git status
+ls
+git checkout master
+git status
+ls
+cd ..
+cd lods-replace-cms/
+git stsuts
+git status
+diff
+git diff
+clear
+ll
+git status
+git branch
+git branch -r
+git branch 741-sort-by-id-in-template-list
+git branch -r
+git branch
+git status
+git checkout 741-sort-by-id-in-template-list
+git diff
+cd ../test_repo/
+git branch
+git checkout test_branch_1
+git push
+git
+git puch --help
+git --help puch
+git push origin test_branch_1
+git branch -r
+git status
+echo "ttestes0111" > README
+git status
+git add .
+git commit -m "#1 fixed"
+git status
+git push origin test_branch_1
+git log
+cd ../lods-replace-cms/
+git branch
+git commit -m "#741 fixed : Sorted in order by Id number."
+git add .
+git status
+git commit -m "#741 fixed : Sorted in order by Id number."
+git log
+git status
+git branch
+git push origin 741-sort-by-id-in-template-list
+cd ~
+ll
+ls -a
+vi .bash_profile 
+vi .bashrc
+vi .bashrc
+vi .bash_profile 
+vi .bashrc
+vi .bashrc
+vi .bashrc
+vi .bashrc
+vi .bashrc
+vi .bashrc
+vi .bashrc
+vi .bashrc
+exit
