@@ -1,0 +1,12 @@
+[user]
+	name = kim-i
+[color]
+	ui = true
+[alias]
+	a = add -u --verbose
+	b = branch
+	co = checkout
+	d = diff
+	s = status
+	ss = stash
+	sa = stash apply
